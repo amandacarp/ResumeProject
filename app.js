@@ -37,4 +37,4 @@ function displaySkills(mySkills, bam) {
 
 displaySkills("Dancing", false);
 displaySkills("Cooking", false);
-displaySkills("Drawing blood and urine from dogs and cats!", true);
+displaySkills("Drawing blood and urine from dogs and cats!", true); 
